@@ -1,0 +1,8 @@
+name: config_annotations
+description: Anotaciones utilizadas para generar un archivo de configuracion desde json.
+version: 1.0.0
+author: Diego Cardenas <diegoefraincardenas@gmail.com>
+homepage: https://dev.azure.com/fcorp-infraestructura-servicios-ti/Packages/_git/Flutter.ConfigAnnotations
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
