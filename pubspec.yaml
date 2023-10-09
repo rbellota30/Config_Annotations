@@ -5,4 +5,4 @@ author: Diego Cardenas <diegoefraincardenas@gmail.com>
 homepage: git@github.com:rbellota30/Config_Annotations.git
 
 environment:
-  sdk: ">=2.10.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
